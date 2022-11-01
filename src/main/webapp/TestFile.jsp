@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	HEllo world
+	HEllo world 충돌
 </body>
 </html>
